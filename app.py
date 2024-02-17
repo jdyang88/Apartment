@@ -10,6 +10,9 @@ api = pdr.TransactionPrice(service_key)
 # Streamlit 대시보드의 제목 설정
 st.title("아파트 매매 / 전월세 조회")
 
+# Displaying the source attribution
+st.markdown('Source: [공공데이터포털](https://www.data.go.kr/)')
+
 # 시군구명 입력 및 시군구 코드 선택을 위한 컬럼 생성
 col1, col2 = st.columns(2)
 
