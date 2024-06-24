@@ -57,7 +57,7 @@ with col3:
 
 with col4:
     # 시작 연월 입력
-    start_year_month = st.text_input("시작 연월 입력 (예: 202306)", "202306")
+    start_year_month = st.text_input("시작 연월 입력 (예: 202301)", "202301")
 
 with col5:
     # 종료 연월 입력
