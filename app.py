@@ -61,7 +61,7 @@ with col4:
 
 with col5:
     # 종료 연월 입력
-    end_year_month = st.text_input("종료 연월 입력 (예: 202407)", "202407")
+    end_year_month = st.text_input("종료 연월 입력 (예: 202406)", "202406")
 
 # 선택된 시군구 코드와 사용자가 입력한 기간에 따라 데이터 조회
 if 'selected_code' in locals() and start_year_month and end_year_month:
