@@ -1,5 +1,5 @@
 altair==4.2.2
 pandas==2.2.3
 numpy==2.0.2
-streamlit>=1.14.0
+streamlit>=1.40.0
 PublicDataReader>=1.1.0
