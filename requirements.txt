@@ -1,4 +1,4 @@
-streamlit==1.12.0
+streamlit
 pandas
 PublicDataReader  # 이 패키지의 정확한 버전을 확인하고 적절히 수정해주세요.
 openpyxl==3.0.9
