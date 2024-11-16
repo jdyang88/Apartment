@@ -1,5 +1,5 @@
 streamlit==1.12.0
-pandas==1.4.2
+pandas
 PublicDataReader  # 이 패키지의 정확한 버전을 확인하고 적절히 수정해주세요.
 openpyxl==3.0.9
 xlsxwriter==3.0.1  # 예시 버전, 실제 프로젝트에 맞게 조정해주세요.
